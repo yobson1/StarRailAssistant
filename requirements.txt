@@ -1,0 +1,17 @@
+numpy
+opencv-python
+PyAutoGUI
+PyGetWindow
+pyperclip
+PyRect
+PyScreeze
+pytweening
+pywin32
+Pillow
+orjson
+loguru
+httpx
+tqdm
+pynput
+aiohttp
+pick
