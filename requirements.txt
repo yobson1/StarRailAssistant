@@ -16,3 +16,4 @@ pynput
 aiohttp
 pick
 matplotlib
+keyboard
