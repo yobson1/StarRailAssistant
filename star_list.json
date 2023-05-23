@@ -24,10 +24,6 @@
     "hash": "ed5a809dc0024d83cbab4fb9933d598d"
   },
   {
-    "path": "requirements.txt",
-    "hash": "f15a4bf697ce9a53f0bbed91b2f67a33"
-  },
-  {
     "path": "pyproject.toml",
     "hash": "ec0c9d81e742a6a0905b5c77506a5654"
   },
